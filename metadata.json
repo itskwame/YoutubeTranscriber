@@ -1,0 +1,5 @@
+{
+  "name": "TubeScribe",
+  "description": "An advanced YouTube link processor that extracts video titles and fetches complete transcriptions using Gemini AI and Google Search grounding.",
+  "requestFramePermissions": []
+}
